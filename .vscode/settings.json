@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/steff/.platformio/penv/bin:/home/steff/.platformio/penv:/home/steff/.local/bin:/home/steff/bin:/usr/local/cuda-10.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/microchip/xc32/v2.15/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
